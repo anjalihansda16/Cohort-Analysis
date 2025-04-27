@@ -1,4 +1,4 @@
-# ShopTrendz E-Commerce: Boosting Retention and Value by Product Category
+# ShopTrendz E-Commerce: Boosting Customer Retention and Value
 
 **Table of Contents**:
 - [Project Overview](#project-overview)
